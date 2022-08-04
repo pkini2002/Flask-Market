@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+market/__pycache__
+market/market.db
+.env
+env/
+*.pyc
+*.pyo
+venv/
+.cache/
+.vscode
+
