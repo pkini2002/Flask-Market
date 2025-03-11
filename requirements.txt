@@ -20,5 +20,5 @@ pycparser==2.21
 SQLAlchemy==1.4.39
 Werkzeug==3.0.6
 WTForms==3.0.1
-zipp==3.8.1
+zipp==3.19.1
 
